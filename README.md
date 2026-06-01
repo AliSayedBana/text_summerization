@@ -42,8 +42,6 @@ This project demonstrates:
 ### 🔹 Input / Processing
 ![Input](assets/text_summarization_clean.png)
 
-### 🔹 Output Summary
-![Output](assets/text_summarization_output.png)
 
 ---
 
